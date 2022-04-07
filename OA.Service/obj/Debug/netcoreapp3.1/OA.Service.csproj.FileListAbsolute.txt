@@ -1,3 +1,8 @@
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csproj.AssemblyReference.cache
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.AssemblyInfoInputs.cache
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.AssemblyInfo.cs
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csproj.CoreCompileInputs.cache
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\bin\Debug\netcoreapp3.1\OA.Service.deps.json
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\bin\Debug\netcoreapp3.1\OA.Service.runtimeconfig.json
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\bin\Debug\netcoreapp3.1\OA.Service.runtimeconfig.dev.json
@@ -7,11 +12,6 @@ C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\bin\Debug\netcoreapp3.1\OA.Data.dll
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\bin\Debug\netcoreapp3.1\OA.Repo.dll
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\bin\Debug\netcoreapp3.1\OA.Data.pdb
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\bin\Debug\netcoreapp3.1\OA.Repo.pdb
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csproj.AssemblyReference.cache
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.AssemblyInfoInputs.cache
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.AssemblyInfo.cs
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csproj.CoreCompileInputs.cache
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csproj.CopyComplete
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.dll
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.pdb

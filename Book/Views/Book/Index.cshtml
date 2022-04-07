@@ -1,0 +1,33 @@
+﻿@using OA.Web.Models
+@model IEnumerable<BookViewModel>
+<div class="row">
+    <div class="col-10">
+    <h1>Book List</h1>
+    <a class="btn btn-sm btn-success m-1" asp-controller="Book" asp-action="Create">Create</a>
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Id</th>
+                    <th>Name</th>
+                    <th>Author</th>
+                    <th>ISBN</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in Model)
+                {
+                     <tr>
+                         <td>@item.Id</td>
+                         <td>@item.Name</td>
+                         <td>@item.Author</td>
+                         <td>@item.ISBN</td>
+                         <td><a class="btn btn-sm btn-warning" asp-controller="Book" asp-route-id="@item.Id " asp-action="Edit">Edit</a></td>
+                         <td><a class="btn btn-sm btn-danger" asp-controller="Book" asp-route-id="@item.Id " asp-action="Delete">Delete</a></td>
+                     </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    </div>
+</div>

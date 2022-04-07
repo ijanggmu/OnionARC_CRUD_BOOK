@@ -6228,6 +6228,7 @@
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 3.1.23",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.23",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.23",
+      "OA.Data >= 1.0.0",
       "OA.Repo >= 1.0.0",
       "OA.Service >= 1.0.0"
     ]
@@ -6259,6 +6260,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Data\\OA.Data.csproj": {
+              "projectPath": "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Data\\OA.Data.csproj"
+            },
             "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Repo\\OA.Repo.csproj": {
               "projectPath": "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Repo\\OA.Repo.csproj"
             },

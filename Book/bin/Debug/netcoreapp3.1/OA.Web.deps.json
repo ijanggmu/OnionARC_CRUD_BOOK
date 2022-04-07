@@ -34,6 +34,7 @@
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "3.1.23",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.23",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.23",
+          "OA.Data": "1.0.0",
           "OA.Repo": "1.0.0",
           "OA.Service": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "3.1.0.0",

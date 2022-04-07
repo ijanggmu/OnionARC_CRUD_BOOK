@@ -28,6 +28,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Data\\OA.Data.csproj": {
+                "projectPath": "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Data\\OA.Data.csproj"
+              },
               "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Repo\\OA.Repo.csproj": {
                 "projectPath": "C:\\Users\\NBIT\\Desktop\\Ejan\\Book\\OA.Repo\\OA.Repo.csproj"
               },

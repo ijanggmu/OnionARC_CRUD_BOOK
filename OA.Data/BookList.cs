@@ -5,7 +5,7 @@ using System.Text;
 
 namespace OA.Data
 {
-    public class Book:BaseEntity
+    public class BookList:BaseEntity
     {
         [Required]
         public string Name { get; set; }

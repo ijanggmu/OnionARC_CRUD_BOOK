@@ -1,0 +1,43 @@
+﻿@model OA.Web.Models.BookViewModel
+<div>
+<div>
+<div>
+<h1>Edit a Book</h1>
+<div>
+<form method="post" asp-action="Edit">
+    <div>
+    <label asp-for="Name"></label>
+    <input type="text" asp-for="Name" class="form-control"/>
+    </div>
+    <div>
+     <label asp-for="Author"></label>
+    <input type="text" asp-for="Author" class="form-control"/>
+    </div>
+    <div>
+     <label asp-for="ISBN"></label>
+    <input type="text" asp-for="ISBN" class="form-control"/>
+    </div>
+    <div>
+        <input type="submit"  value="Edit" class="btn btn-sm btn-success m-2" />
+        <a class="btn btn-sm btn-danger m-2" asp-action="Index">Back to List</a>
+    </div>
+</form>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

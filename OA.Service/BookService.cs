@@ -7,30 +7,31 @@ namespace OA.Service
 {
     public class BookService:IBookService
     {
-        private IRepository<Book> _bookRepository;
-        public BookService(IRepository<Book> bookRepository)
+        private IRepository<BookList> _bookRepository;
+        public BookService(IRepository<BookList> bookRepository)
         {
             _bookRepository = bookRepository;
         }
-        public IEnumerable<Book> GetBooks()
+        public IEnumerable<BookList> GetBooks()
         {
             return _bookRepository.GetAll();
         }
-        public Book GetBook(long id)
+        public BookList GetBook(int id)
         {
             return _bookRepository.Get(id);
         }
-        public void InsertBook(Book book)
+        public void InsertBook(BookList book)
         {
             _bookRepository.Insert(book);
         }
-        public void UpdateBook(Book book)
+        public void UpdateBook(BookList book)
         {
             _bookRepository.Update(book);
+            _bookRepository.SaveChanges();
         }
-        public void DeleteBook(long id)
+        public void DeleteBook(int id)
         {
-            Book book = GetBook(id);
+            BookList book = GetBook(id);
             _bookRepository.Remove(book);
             _bookRepository.SaveChanges();
         }

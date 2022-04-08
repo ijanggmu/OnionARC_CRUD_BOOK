@@ -7,7 +7,7 @@ namespace OA.Data
 {
     public class BookMap
     {
-        public BookMap(EntityTypeBuilder<Book> entityBuilder)
+        public BookMap(EntityTypeBuilder<BookList> entityBuilder)
         {
             entityBuilder.HasKey(t => t.Id);
             entityBuilder.Property(t => t.Name);

@@ -7,11 +7,10 @@ namespace OA.Service
 {
     public interface IBookService
     {
-        IEnumerable<Book> GetBooks();
-        Book GetBook(long id);
-        void InsertBook(Book book);
-        void UpdateBook(Book book);
-        void DeleteBook(long id);
-
+        IEnumerable<BookList> GetBooks();
+        BookList GetBook(int id);
+        void InsertBook(BookList book);
+        void UpdateBook(BookList book);
+        void DeleteBook(int id);
     }
 }

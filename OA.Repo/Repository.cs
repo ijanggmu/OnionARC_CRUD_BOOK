@@ -40,7 +40,6 @@ namespace OA.Repo
                 throw new ArgumentNullException("entity");
 
             }
-            //entities.Update(entity);
             _db.SaveChanges();
         }
         public void Delete(T entity)

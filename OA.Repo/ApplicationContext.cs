@@ -13,7 +13,7 @@ namespace OA.Repo
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            new BookMap(modelBuilder.Entity<Book>());
+            new BookMap(modelBuilder.Entity<BookList>());
         }
     }
 }

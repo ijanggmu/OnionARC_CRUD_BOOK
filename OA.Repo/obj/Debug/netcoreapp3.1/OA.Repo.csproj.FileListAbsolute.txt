@@ -1,3 +1,8 @@
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csproj.AssemblyReference.cache
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.AssemblyInfoInputs.cache
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.AssemblyInfo.cs
+C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csproj.CoreCompileInputs.cache
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.deps.json
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.runtimeconfig.json
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.runtimeconfig.dev.json
@@ -5,11 +10,6 @@ C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.dll
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\bin\Debug\netcoreapp3.1\OA.Repo.pdb
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\bin\Debug\netcoreapp3.1\OA.Data.dll
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\bin\Debug\netcoreapp3.1\OA.Data.pdb
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csproj.AssemblyReference.cache
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.AssemblyInfoInputs.cache
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.AssemblyInfo.cs
-C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csproj.CoreCompileInputs.cache
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.csproj.CopyComplete
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.dll
 C:\Users\NBIT\Desktop\Ejan\Book\OA.Repo\obj\Debug\netcoreapp3.1\OA.Repo.pdb

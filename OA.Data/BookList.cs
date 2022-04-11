@@ -11,5 +11,6 @@ namespace OA.Data
         public string Name { get; set; }
         public string Author { get; set; }
         public string ISBN { get; set; }
+        public virtual StudentList StudentList { get; set; }
     }
 }

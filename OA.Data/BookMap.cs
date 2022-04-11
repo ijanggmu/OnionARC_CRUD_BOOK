@@ -13,6 +13,7 @@ namespace OA.Data
             entityBuilder.Property(t => t.Name);
             entityBuilder.Property(t => t.Author);
             entityBuilder.Property(t => t.ISBN);
+            entityBuilder.HasOne(t => t.StudentList).WithOne(t => t.BookList).HasForeignKey<StudentList>(x => x.Id);
         }
     }
 }

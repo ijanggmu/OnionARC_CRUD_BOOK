@@ -16,6 +16,7 @@ namespace OA.Web.Controllers
             _bookServices = bookService;
         }
         [HttpGet]
+        
         public IActionResult Index()
         {
             List<BookViewModel> model = new List<BookViewModel>();

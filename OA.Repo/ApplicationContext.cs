@@ -14,6 +14,7 @@ namespace OA.Repo
         {
             base.OnModelCreating(modelBuilder);
             new BookMap(modelBuilder.Entity<BookList>());
+            new StudentMap(modelBuilder.Entity<StudentList>());
         }
     }
 }

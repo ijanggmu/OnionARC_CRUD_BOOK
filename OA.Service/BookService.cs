@@ -30,7 +30,7 @@ namespace OA.Service
             _bookRepository.SaveChanges();
         }
         public void DeleteBook(int id)
-        {
+        {   
             BookList book = GetBook(id);
             _bookRepository.Remove(book);
             _bookRepository.SaveChanges();

@@ -30,6 +30,7 @@ namespace Book
                 options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
             services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
             services.AddTransient<IBookService, BookService>();
+            services.AddTransient<IStudentService, StudentService>();
             services.AddControllersWithViews();
         }
 
